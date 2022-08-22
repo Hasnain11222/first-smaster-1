@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2159510.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.d1{
+    height: 300px;
+    width: 404px;
+    margin: 0 auto;
+    position: relative;
+    top: 110px;  
+    right: 290px;  
+    border-radius: 6px;
+    border: 1px solid white;
+}
+
+
+.i1{
+    height:35px ;
+    width: 391px ;
+    border-radius: 5px;
+    position: relative;
+    top: 5px;
+}
+
+
+.i2{
+    height:35px ;
+    width: 391px ;
+    position: relative;
+    top: 10px;
+    border-radius: 5px;
+}
+
+
+.i3{
+    height:35px ;
+    width: 391px ;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+}
+
+.i4{
+    height:35px ;
+    width: 391px ;
+    position: relative;
+    top: 30px;
+    border-radius: 5px;
+}
+
+.i5{
+    height:35px ;
+    width: 391px ;
+    position: relative;
+    top: 40px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+
+.d2{
+    color: rgb(0, 0, 0);
+    height: 300px;
+    width: 450px;
+    margin: 0 auto;
+    position: relative;
+    top: -190px;
+    left: 200px;    
+    border-radius: 6px;
+    border: 1px solid white;
+}
+
+
+table{
+
+background-color: antiquewhite;
+height: 30px;
+}

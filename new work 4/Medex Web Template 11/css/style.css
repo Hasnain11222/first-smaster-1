@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px; padding:0px;}
+
+.gap{height:35px;}
+
+.navcolor{ background-image: linear-gradient(to right, #299ADC , #3BC053);}
+.pics{
+	background-image:url(../img/1.jpg);
+	height:800px;
+	background-size:cover;}
+	
+.abpic{background-image:url(../img/abpic.jpg);
+	   height:800px;
+	   background-size:cover;
+	   background-attachment:fixed;}
+	   
+.abgap{ height:450px;}	 
+.abgap2{ height:100px;}	
+
+.abbg{background-image:url(../img/aboutbg.PNG);
+	   height:800px;
+	  } 
+	  
+.docgap{height:650px;}
+	  
+.brdr{border:2px #000000 solid;}  
+	  
+	  
+.jpic{height:280px;
+	background-image:url(../img/jpic.PNG);}	  

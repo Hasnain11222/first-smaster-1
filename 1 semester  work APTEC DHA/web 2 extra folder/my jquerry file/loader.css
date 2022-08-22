@@ -1,0 +1,18 @@
+#loader{
+    background-color: whitesmoke;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#status{
+    height: 150px;
+    width: 150px;
+    background-image: url(loader.gif);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 42%;
+    top: 34%;
+}

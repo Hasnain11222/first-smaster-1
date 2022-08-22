@@ -1,0 +1,202 @@
+.section1{
+    width: 100%;
+    height: 900px;
+    position: relative;
+    display: inline-block;
+    background-image: url(https://i.pinimg.com/originals/33/09/ca/3309ca1330ca91b55b4feeda3f383031.jpg);
+    
+}   
+/* body{
+  
+    background-position: center;
+    background-size: cover;
+}  */
+
+
+
+nav{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 10px 25px;
+    
+    
+}
+
+ul li{
+    display: inline-block;
+padding: 10px 10px;
+text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: burlywood;
+}
+.logo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+
+.icon{
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 10px;
+    display: none;
+    color: white;
+    font-size: 30px;
+}
+
+@media (max-width: 486px){
+ul li{
+    display: none;
+}
+.icon{
+    display: block;}
+}
+
+
+    h1{
+        position: relative;
+        right: 600px;
+        color: white;
+        top: 10px;
+    }
+
+    
+/* section 2 */
+
+
+.aboutme{
+width: 100%;
+height: 600px;
+background-color: white;
+}
+
+h3{
+        color: #A1B3A4;
+        font-size: 30px;
+        font-family: 'Cinzel', serif;
+        line-height: 25px;
+        font-weight: bold;
+        padding: 67px 0 55px;
+        height: 5px;
+        
+}
+.im{
+    /* border-radius: 100%; */
+    width: 200px;
+    margin-left: 44px;
+    margin-top: 20px;
+}
+.card{
+    background-color: rgba(129, 224, 144, 0.14);
+
+    
+}
+.sa{
+    font-size: 26px;
+}
+.iconn{
+    margin-left: 95px;
+    font-size: 25px;
+}
+@media (max-width:1200px){
+    .card{
+        margin: auto;
+    }
+    .cd{
+        margin-top: 20px;
+    }
+}
+
+#pop{
+    height: 800px;
+}
+
+             /* picture */
+
+.pg1{
+    width: 400px;
+    height: 300px;
+margin-top: 5px;
+border-radius: 10px;
+}             
+
+
+.pg2{
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+    border-radius: 10px;
+    
+}           
+
+
+
+.pg3{
+    width: 400px;
+    height: 300px;
+    margin-left: 70px;
+    border-radius: 10px;
+    
+}           
+
+
+
+.pg4{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}           
+
+
+.pg5{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+    
+}           
+
+/* contact */
+
+
+
+.bb{
+    background: #A1B3A4;
+    border-color:#A1B3A4;
+    color: #fff;
+    outline: none;
+    margin: 3% 0px auto;
+    padding:15px 35px;
+    font-size: 18px;
+}
+
+.form-control{
+    outline: none;
+    height: 60px;
+    padding: 10px;
+    border-top:none ;
+    border-left: none;
+    border-right: none;
+    border-bottom:2px solid black ;
+}
+
+.icon6{
+    height: 40px;
+    width: 40px;
+    
+}
+
+.icon7{
+    height: 40px;
+    width: 40px;
+}
+

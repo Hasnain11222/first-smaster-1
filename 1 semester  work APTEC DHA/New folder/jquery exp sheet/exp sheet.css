@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/52281.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+
+}
+
+
+.tx{
+    position: relative;
+    left: 440px;
+    width: 450px;
+    height: 200px;
+    background-color: slategray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.pro{
+    height: 40px;
+    width: 200px;
+    position: relative;
+    left: 220px;
+    top: 10px;
+    
+}
+
+.pro2{
+    height: 40px;
+    width: 200px;
+    position: relative;
+   right: 225px;
+    top: 10px;
+}
+
+.pro3{
+    height: 40px;
+    width: 200px;
+    position: relative;
+     left: -120px;
+     top: 40px;
+}
+ 

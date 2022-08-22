@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+#loader{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+#status{
+    width: 300px;
+    height: 300px;
+    background-image: url("https://i.gifer.com/ZZ5H.gif");
+    background-repeat: no-repeat;
+    position: relative;
+    left: 45%;
+    top: 36%;
+}
+#img1{
+    width: 50%;
+
+    position: relative;
+}
+#img2{
+    width: 50%;
+    float: right;
+position: relative;
+
+    
+}
+#txt{
+    width: 100%;
+    height: 20px;
+}
